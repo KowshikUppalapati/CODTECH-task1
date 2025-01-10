@@ -8,6 +8,9 @@
 
 **PROJECT NAME**:SIMPLE CALCULATIOR
 
+![image](https://github.com/user-attachments/assets/e7fc3810-2e61-405f-9928-4cf18175875a)
+
+
 ![image](https://github.com/user-attachments/assets/02487412-2c4f-4d65-9c05-0d106fbe5d21)
 
 
