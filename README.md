@@ -8,6 +8,9 @@
 
 **PROJECT NAME**:SIMPLE CALCULATIOR
 
+![image](https://github.com/user-attachments/assets/02487412-2c4f-4d65-9c05-0d106fbe5d21)
+
+
 The code implements a **Basic Calculator Program** in Python that allows users to perform four basic arithmetic operations: addition, subtraction, multiplication, and division.
 
 
